@@ -1,6 +1,7 @@
 {
-  "_base": ".",
+  "_base": "https://cdn.jsdelivr.net/gh/igdabibhakti/Kepala-bapak-kau-lofi-mix@main/",
   "can_you_speak_english": ["can-you-speak-english.mp3"],
   "kepala_bapak_kau": ["kepala-bapak-kau.mp3"],
   "kepala_bapak_kau_01": ["kepala_bapak_kau_01.mp3"]
 }
+
